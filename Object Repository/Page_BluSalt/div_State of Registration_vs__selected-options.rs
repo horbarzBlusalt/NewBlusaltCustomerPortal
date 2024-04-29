@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_State of Registration_vs__selected-options</name>
+   <tag></tag>
+   <elementGuidId>bd1c74b1-439b-4a71-9fbb-aeb6755c737a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vs2__combobox']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vs__selected-options</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e87f128-b047-4a6d-ae08-91cb587068f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__selected-options</value>
+      <webElementGuid>bc192e09-daaa-48d1-93c1-31cf93e2d67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs2__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
+      <webElementGuid>e09d2e7f-d6e4-49a4-9125-6c9c8d47dda0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vs2__combobox']/div</value>
+      <webElementGuid>816de34b-498d-4daa-8e7b-b01671d4340c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State of Registration'])[1]/following::div[5]</value>
+      <webElementGuid>4a72d9a0-1022-4c15-913b-4115ec1ac6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[1]/following::div[7]</value>
+      <webElementGuid>fac0ac46-b7e6-4ca9-b538-a2218123251e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[1]/preceding::div[1]</value>
+      <webElementGuid>6ecd8667-9fae-4ea3-895c-8d1fc35fa6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div</value>
+      <webElementGuid>c60bf07a-72a8-490a-880f-7359f1c109c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

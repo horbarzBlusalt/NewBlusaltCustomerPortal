@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_9013191351</name>
+   <tag></tag>
+   <elementGuidId>cd132d3b-64e6-4380-80f8-abb6ab708a9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-between.align-items-end > div > p.text--xslg.fw-normal.pt-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/section/div/div[4]/div/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2d64bedf-3677-4855-ba5e-bc9b7d3c3aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text--xslg fw-normal pt-1</value>
+      <webElementGuid>81818cb4-35f0-41e4-8e03-91390a9fe73d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9013191351 </value>
+      <webElementGuid>a7f7ff18-db50-4027-a3b9-2832cd373a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;row g-4 mb-4&quot;]/div[@class=&quot;col-12 col-sm-6 col-lg-3&quot;]/div[@class=&quot;section--stat-display&quot;]/div[1]/div[@class=&quot;text--lg text-break&quot;]/div[@class=&quot;d-flex justify-content-between align-items-end&quot;]/div[1]/p[@class=&quot;text--xslg fw-normal pt-1&quot;]</value>
+      <webElementGuid>1c26edc4-0407-4b45-98e8-caa8f68baef8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div/div[4]/div/div/div/div/div/p</value>
+      <webElementGuid>36b7c923-81b6-4f55-900a-70871b6ab4b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT DETAILS'])[1]/following::p[1]</value>
+      <webElementGuid>d968bfd7-a70e-4162-88f3-ef6c92a90a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDING BALANCE'])[1]/following::p[2]</value>
+      <webElementGuid>4168c359-a371-452c-a3f4-81fa5eb495b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polaris Bank Limited'])[1]/preceding::p[1]</value>
+      <webElementGuid>1bc85706-df45-467b-993d-285076c3ca70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL CUSTOMER - 67'])[1]/preceding::p[1]</value>
+      <webElementGuid>1ffee234-a0b0-4ed0-8471-8d089238a7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='9013191351']/parent::*</value>
+      <webElementGuid>94d94460-7faa-45ba-9a12-e776968414f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/p</value>
+      <webElementGuid>f8dd6588-27a6-4712-9b50-3faa1bef05cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '9013191351 ' or . = '9013191351 ')]</value>
+      <webElementGuid>2150a2ca-d187-4205-9a95-68427a5be370</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

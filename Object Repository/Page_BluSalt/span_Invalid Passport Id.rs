@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Invalid Passport Id</name>
+   <tag></tag>
+   <elementGuidId>0274785d-a3ad-4dfe-84db-5c1f30ba9b02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ht418o5']/div/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f668eb91-7910-4f3b-9817-883977870210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Passport Id</value>
+      <webElementGuid>c0563451-43ef-4bbc-a92c-4b9efd87634d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ht418o5&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]/div[@class=&quot;d-flex flex-column&quot;]/span[2]</value>
+      <webElementGuid>4acf1991-ee28-493a-852f-5865db6389a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ht418o5']/div/div[2]/div/span[2]</value>
+      <webElementGuid>62addc02-be40-406f-b31d-cc59357a6348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed'])[1]/following::span[1]</value>
+      <webElementGuid>e04f54ce-bf59-4f3f-8596-c99aba07a16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[2]/following::span[2]</value>
+      <webElementGuid>ee83543d-aef4-4953-907d-3ab287d8e7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid Passport Id']/parent::*</value>
+      <webElementGuid>108495ae-6ca2-4d95-91c1-b6e0c5890fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/span[2]</value>
+      <webElementGuid>607c57d9-9562-4c41-87cc-d610897b4ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Invalid Passport Id' or . = 'Invalid Passport Id')]</value>
+      <webElementGuid>0f96ea83-e3a8-4b76-b0a3-8eceb638366c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NIN not found</name>
+   <tag></tag>
+   <elementGuidId>16a13065-2aad-4103-9298-c8f76a1a9fca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='blz14ez']/div/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e147645c-22dd-4166-98cd-c44d6940002c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NIN not found</value>
+      <webElementGuid>5089625a-08c8-4e24-97c4-3496b5a697db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blz14ez&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]/div[@class=&quot;d-flex flex-column&quot;]/span[2]</value>
+      <webElementGuid>693f6745-b1be-4ef4-ac09-35da111a902a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='blz14ez']/div/div[2]/div/span[2]</value>
+      <webElementGuid>1c3ca245-a4f9-4464-a892-52ce971afad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successful'])[1]/following::span[1]</value>
+      <webElementGuid>107931b9-f45c-4232-bfe4-4984a123fbfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::span[2]</value>
+      <webElementGuid>43ed851b-1841-4b49-ae2b-fa1874157f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NIN not found']/parent::*</value>
+      <webElementGuid>e64272e7-7512-4c49-9d22-fcb32db0aaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/span[2]</value>
+      <webElementGuid>1cf62c59-db3b-4c97-8978-03cd248efef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'NIN not found' or . = 'NIN not found')]</value>
+      <webElementGuid>c81bba3c-a45c-4952-8e13-63ef9f7f11cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

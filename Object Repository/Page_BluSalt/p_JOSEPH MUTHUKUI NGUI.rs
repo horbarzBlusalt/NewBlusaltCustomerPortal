@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_JOSEPH MUTHUKUI NGUI</name>
+   <tag></tag>
+   <elementGuidId>c27b43ca-cc41-4597-a2c7-912a7eef3427</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/div[2]/section/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a0fdba40-9170-4b94-895e-3a0012a9e469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-0</value>
+      <webElementGuid>dbd8c2d9-9748-4ddf-af14-c5342314daec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JOSEPH MUTHUKUI NGUI</value>
+      <webElementGuid>5edde71e-6d04-4c71-b9b4-6b9b8a302a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;verification-layout&quot;]/div[@class=&quot;verification-main&quot;]/div[@class=&quot;mb-5&quot;]/div[1]/div[@class=&quot;info__section&quot;]/section[@class=&quot;justify-content-between border-bottom mb-4&quot;]/p[@class=&quot;mb-0&quot;]</value>
+      <webElementGuid>f2f9e589-619b-4988-8d26-d2a7abf92108</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/div[2]/section/p[2]</value>
+      <webElementGuid>5ad0421e-73b4-4c05-9813-9c90cf827b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::p[2]</value>
+      <webElementGuid>bfafd896-5654-4177-8ced-fac860bfb000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National ID'])[1]/following::p[4]</value>
+      <webElementGuid>b7ca9b28-4f3e-4600-aecf-a143ab3e890a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Endpoint'])[1]/preceding::p[17]</value>
+      <webElementGuid>0826aff9-4b42-4ddd-82f2-eff9e3c455f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Headers'])[1]/preceding::p[17]</value>
+      <webElementGuid>c03a71f5-cc3e-4b5b-880d-fd7af2b3a57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JOSEPH MUTHUKUI NGUI']/parent::*</value>
+      <webElementGuid>e6e48c67-03be-4e7a-9c40-1fefbcba56bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/p[2]</value>
+      <webElementGuid>4e5af78e-317c-44f7-bfba-36304bd98477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'JOSEPH MUTHUKUI NGUI' or . = 'JOSEPH MUTHUKUI NGUI')]</value>
+      <webElementGuid>5913c61f-1511-4f38-b810-12d04ae7add4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Drivers License is required</name>
+   <tag></tag>
+   <elementGuidId>8b1b0f47-f85f-4079-ba73-3e014599b8e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/form/div[2]/div/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>small.input-text-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>51de7640-c69d-4a20-b597-66b9337706fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text-error</value>
+      <webElementGuid>d4c1a801-ddd7-4ccb-b1da-e032e6d25124</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Drivers License is required</value>
+      <webElementGuid>d759864f-b780-4cf1-8102-06c567ed924f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;verification-layout&quot;]/div[@class=&quot;verification-main&quot;]/div[@class=&quot;mb-5&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;form-group&quot;]/small[@class=&quot;input-text-error&quot;]</value>
+      <webElementGuid>1198ece9-f008-485f-8da4-071e5ff67554</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/form/div[2]/div/div/small</value>
+      <webElementGuid>4093ae00-4c25-41aa-bf3a-482acbef76ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drivers License Number'])[1]/following::small[1]</value>
+      <webElementGuid>a02231ed-2dae-4f82-b1f4-0140849ce08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Each API call costs ₦150)'])[1]/following::small[1]</value>
+      <webElementGuid>6c213980-1029-43d6-9e3a-92138fa13c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/preceding::small[1]</value>
+      <webElementGuid>6a6b543a-87cd-43ad-9ef8-927c62919d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[1]/preceding::small[1]</value>
+      <webElementGuid>7bd4443b-25d2-415b-b371-4429eec50761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Drivers License is required']/parent::*</value>
+      <webElementGuid>e1417782-52ff-4b2e-964c-83cae3611e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//small</value>
+      <webElementGuid>67570789-0f3e-443b-89e6-657c4174e0ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' Drivers License is required' or . = ' Drivers License is required')]</value>
+      <webElementGuid>7c4bd4fe-57d5-4082-8d1c-210e9b3438a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

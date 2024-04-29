@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No Result Found For This Bvn</name>
+   <tag></tag>
+   <elementGuidId>5765ccb8-4649-498f-ac5f-a7e41db4103d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xg53ccg']/div/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40b5b976-61f0-4cc7-ab73-105ef02fb1bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Result Found For This Bvn</value>
+      <webElementGuid>688fdabb-0e3b-45a7-9c0b-7e39ae4b7812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xg53ccg&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]/div[@class=&quot;d-flex flex-column&quot;]/span[2]</value>
+      <webElementGuid>6c66bc10-d91e-4a25-948f-21bc0faa2f90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xg53ccg']/div/div[2]/div/span[2]</value>
+      <webElementGuid>c6152c21-eb9b-4c88-86c6-2c7f1c488c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed'])[1]/following::span[1]</value>
+      <webElementGuid>dd5903ce-d338-49b6-ad00-b76798037010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[2]/following::span[2]</value>
+      <webElementGuid>2d8a7976-54cb-40f0-a9e3-66550d866b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Result Found For This Bvn']/parent::*</value>
+      <webElementGuid>c604e017-4bed-4ee0-84bf-4e774a78f2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/span[2]</value>
+      <webElementGuid>decb3dde-4af2-4da3-a240-478085aaedae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No Result Found For This Bvn' or . = 'No Result Found For This Bvn')]</value>
+      <webElementGuid>a2c2eea2-d225-4468-a4f2-68d9c5474b20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

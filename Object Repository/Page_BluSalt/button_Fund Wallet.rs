@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Fund Wallet</name>
+   <tag></tag>
+   <elementGuidId>797efd98-5396-48b3-ab08-0edefcae34a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn--primary.px-4.invert</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c8747cfb-a256-45e7-a3d5-1c63da1c576a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9b0733fb-fe64-4e2d-a190-5161b62242f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--primary px-4 invert</value>
+      <webElementGuid>e7c440ac-6102-4deb-bb56-f5fe141cef6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fund Wallet</value>
+      <webElementGuid>f7dc64ab-119d-43e2-a373-215d7e50d249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/div[@class=&quot;d-flex flex-wrap justify-content-between&quot;]/div[@class=&quot;d-flex gap-4&quot;]/button[@class=&quot;btn btn--primary px-4 invert&quot;]</value>
+      <webElementGuid>ebe932a0-660c-46c5-b9bd-1db7a0fc08ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f965e648-845b-486a-aef3-43f6c3c3e8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/div[2]/div[2]/button[2]</value>
+      <webElementGuid>f925cd9c-1f20-4e9b-ab17-e24f5d24c347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Fund'])[1]/following::button[1]</value>
+      <webElementGuid>1ec56a40-5eb5-42df-9727-e2c6225dbbe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Overview'])[1]/following::button[2]</value>
+      <webElementGuid>94f17b19-c6e8-452c-90c0-4f9210d1b82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdraw Funds'])[1]/preceding::button[1]</value>
+      <webElementGuid>101df2b0-c3ba-4d41-88f1-5f10092a5fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>bbb9d49f-b13f-43cb-b692-72b6b85a450c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Fund Wallet' or . = 'Fund Wallet')]</value>
+      <webElementGuid>cc92f3ad-a9fb-4159-86ae-0a8ca724ba49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

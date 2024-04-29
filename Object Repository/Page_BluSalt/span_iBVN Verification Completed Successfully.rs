@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_iBVN Verification Completed Successfully</name>
+   <tag></tag>
+   <elementGuidId>01021a4a-70d6-49c7-b497-abdec67c3177</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='95cemgp']/div/div[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a5ed0c93-e7d5-4efa-a334-42009a6922b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>iBVN Verification Completed Successfully</value>
+      <webElementGuid>772ebbfa-1a32-4809-acc0-56ce6a727c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;95cemgp&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]/div[@class=&quot;d-flex flex-column&quot;]/span[2]</value>
+      <webElementGuid>2c3d881d-a3a3-49e5-8b3d-6f505ba28887</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='95cemgp']/div/div[2]/div/span[2]</value>
+      <webElementGuid>a8926313-807e-475e-9268-e64acefc5034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successful'])[1]/following::span[1]</value>
+      <webElementGuid>6420495d-3fba-402a-b11d-ff363198bb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD'])[1]/following::span[2]</value>
+      <webElementGuid>0e276955-89c7-4bef-bdc7-2d1adca5ff50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='iBVN Verification Completed Successfully']/parent::*</value>
+      <webElementGuid>a5543221-a347-4f21-a3bb-4b7a9938848b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/span[2]</value>
+      <webElementGuid>6a3d5a73-d102-4bed-b225-1d185f25b25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'iBVN Verification Completed Successfully' or . = 'iBVN Verification Completed Successfully')]</value>
+      <webElementGuid>1938ab87-0cd2-4cb4-b292-42d36a3dabbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

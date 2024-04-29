@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Verify PVC</name>
+   <tag></tag>
+   <elementGuidId>25da49e7-a7e4-420e-a0bf-d16fa73f7a55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn--lg.btn--primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2860865a-2fd7-4503-993a-a2a58ab9e0d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--lg btn--primary</value>
+      <webElementGuid>757bc531-43d4-4f75-9732-ba80c7f5c555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b203d3c8-83aa-4e7d-93d2-5f70bdee95e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify PVC</value>
+      <webElementGuid>8c0f1740-e99e-4b6a-8c3e-d92f0a882aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;verification-layout&quot;]/div[@class=&quot;verification-main&quot;]/div[@class=&quot;mb-5&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/button[@class=&quot;btn btn--lg btn--primary&quot;]</value>
+      <webElementGuid>dc15fb04-ee5c-40ef-bcfe-91d5e1644dcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>5b306063-debe-49f7-b81a-2f7eab4b72a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/form/div[2]/div[8]/button</value>
+      <webElementGuid>1f851f3a-12a2-48c3-ba09-f55389dd4f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::button[1]</value>
+      <webElementGuid>b4ef7cf2-e221-40fc-ba98-e5241acdf05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/following::button[1]</value>
+      <webElementGuid>95be3d6a-5d81-4952-95b6-d9e983843640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Endpoint'])[1]/preceding::button[1]</value>
+      <webElementGuid>1fcd7a42-0d37-401f-b2fd-bf80980e95b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'POST : https://staging-api.blusalt.net/v2/IdentityVerification/PVC', '&quot;', '')])[1]/preceding::button[1]</value>
+      <webElementGuid>cab026da-4355-4015-afa9-682d7e6fcdc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verify PVC']/parent::*</value>
+      <webElementGuid>7db9f576-bb70-4393-8b7e-c9034d24c658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/button</value>
+      <webElementGuid>2eade463-8390-48c6-bf01-fac1957c024c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Verify PVC' or . = 'Verify PVC')]</value>
+      <webElementGuid>60fdbfa3-0d8c-4abd-b436-8b001e321a38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

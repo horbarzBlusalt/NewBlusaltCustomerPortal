@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select API Version_vs__selected-options</name>
+   <tag></tag>
+   <elementGuidId>6ec451bb-f7ce-4391-84a3-1986979cb1da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vs3__combobox']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#vs3__combobox > div.vs__selected-options</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d493f709-f626-4d91-948f-c3345765faaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__selected-options</value>
+      <webElementGuid>5e3e9a25-92e3-4012-a26d-e4451125bef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs3__combobox&quot;)/div[@class=&quot;vs__selected-options&quot;]</value>
+      <webElementGuid>2583280f-8669-4af0-8797-23d8f2951f32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vs3__combobox']/div</value>
+      <webElementGuid>2b3b3c24-b7c5-43da-bc2f-38544b32deea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select API Version'])[1]/following::div[5]</value>
+      <webElementGuid>cdcc7c83-e2a4-431b-9482-e7434fe8f2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an Application to be billed for the request'])[1]/following::div[10]</value>
+      <webElementGuid>160b2f06-f4d5-4bb0-b3cc-bff65b30774d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::div[1]</value>
+      <webElementGuid>a5bc3b2c-6f1d-4214-9dac-23554af7636b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div</value>
+      <webElementGuid>3b50c10d-253b-475b-b392-08ff34cd4038</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

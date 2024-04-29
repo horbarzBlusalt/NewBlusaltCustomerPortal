@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>small_Firstname is required</name>
+   <tag></tag>
+   <elementGuidId>653bcf66-f20e-41f6-8951-9ae2fbce9a32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/form/div[2]/div[3]/div/small</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>0efaff16-f0a0-4698-8342-517d0c29759d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text-error</value>
+      <webElementGuid>3042ae47-f22e-4821-9082-75b1346224df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Firstname is required</value>
+      <webElementGuid>d2f4f50b-6da0-47d1-b10d-d3bd3b92c839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@id=&quot;app&quot;]/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;verification-layout&quot;]/div[@class=&quot;verification-main&quot;]/div[@class=&quot;mb-5&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;form-group&quot;]/small[@class=&quot;input-text-error&quot;]</value>
+      <webElementGuid>37bca3db-0d6e-4e8a-bcd3-d568a74b43e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/form/div[2]/div[3]/div/small</value>
+      <webElementGuid>1390e681-c6ff-4fe2-889a-0aa0a43f1da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Firstname'])[1]/following::small[1]</value>
+      <webElementGuid>8d5eca5b-eb53-4b19-ab8e-006ca89bf8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[1]/following::small[1]</value>
+      <webElementGuid>aa8511b9-bac0-4f34-8ef0-91735d74986b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lastname'])[1]/preceding::small[1]</value>
+      <webElementGuid>75fb8891-974a-4ba7-8bdb-bdeb1cc57ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lastname is required'])[1]/preceding::small[1]</value>
+      <webElementGuid>994dc6a4-1547-444f-a99e-77ae9b133aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Firstname is required']/parent::*</value>
+      <webElementGuid>f2de4dd0-0ced-4dce-bf0a-ee5f0a2bdfc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/small</value>
+      <webElementGuid>5c2d996f-fbc5-44a7-a2b9-91146757396f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//small[(text() = ' Firstname is required' or . = ' Firstname is required')]</value>
+      <webElementGuid>d17a7482-cab0-4122-be48-0ec4f46dd328</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Obaloluwa Peter Abioye</name>
+   <tag></tag>
+   <elementGuidId>f029683a-8642-4528-bf92-7292f67021ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/div[2]/section/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ca1ce8ce-f02f-4818-a712-8a7b53cfd893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-0</value>
+      <webElementGuid>b6795b27-6e04-4d65-bb99-aed0bcd9a32f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Obaloluwa Peter Abioye</value>
+      <webElementGuid>74776422-1d92-4092-9f90-02cdbcfc98df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;verification-layout&quot;]/div[@class=&quot;verification-main&quot;]/div[@class=&quot;mb-5&quot;]/div[1]/div[@class=&quot;info__section&quot;]/section[@class=&quot;justify-content-between border-bottom mb-4&quot;]/p[@class=&quot;mb-0&quot;]</value>
+      <webElementGuid>fda27955-4dc4-430c-b8a7-964c33bc3b1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/div[2]/section/p[2]</value>
+      <webElementGuid>b19aced6-8ba3-440e-a0aa-053ebc0453ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::p[2]</value>
+      <webElementGuid>94458480-9be0-4527-9d4d-644af2fa44f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National ID'])[1]/following::p[4]</value>
+      <webElementGuid>09254adf-e8ea-4608-b453-ecd9127455cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Endpoint'])[1]/preceding::p[33]</value>
+      <webElementGuid>017c0f5d-4278-4bbe-93ef-fe71b9ff8ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'POST : https://staging-api.blusalt.net/v2/IdentityVerification/iBVN', '&quot;', '')])[1]/preceding::p[33]</value>
+      <webElementGuid>e4494b7f-b996-4bcd-b4e7-321b00e0da92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Obaloluwa Peter Abioye']/parent::*</value>
+      <webElementGuid>3d624e11-5d87-4580-8a12-92fbcbba80c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/p[2]</value>
+      <webElementGuid>07d563ec-ea53-473e-9519-daa22d71d8eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Obaloluwa Peter Abioye' or . = 'Obaloluwa Peter Abioye')]</value>
+      <webElementGuid>862d1c67-e396-47cc-a04f-a602ffcd2d6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

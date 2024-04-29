@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Otp Sent Successfully</name>
+   <tag></tag>
+   <elementGuidId>ec68d4aa-6588-4165-afe8-6047f3dbf2c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1kjh98n']/div/div[2]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92ad42f7-11be-4715-b974-b7735e8dd681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Otp Sent Successfully</value>
+      <webElementGuid>808ea874-2ec5-4712-a031-ad108fd0ff6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1kjh98n&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]/div[@class=&quot;d-flex flex-column&quot;]/span[2]</value>
+      <webElementGuid>36d01b2c-ede0-42de-9b0b-7cdf1a22aa86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1kjh98n']/div/div[2]/div/span[2]</value>
+      <webElementGuid>c0dca3bd-f784-4d65-a852-4e1c688832d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successful'])[2]/following::span[1]</value>
+      <webElementGuid>d803bacc-b110-4c8d-9be9-e550c9d07929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Otp Sent Successfully']/parent::*</value>
+      <webElementGuid>c0e9f575-278a-460a-a60d-b69225727ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/span[2]</value>
+      <webElementGuid>5f5b964c-62de-4535-b68d-a5b44d654f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Otp Sent Successfully' or . = 'Otp Sent Successfully')]</value>
+      <webElementGuid>efe230bb-4832-4341-941f-86da577179b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

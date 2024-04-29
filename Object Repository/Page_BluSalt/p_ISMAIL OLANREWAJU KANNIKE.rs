@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ISMAIL OLANREWAJU KANNIKE</name>
+   <tag></tag>
+   <elementGuidId>3ca54cac-f87b-4811-b158-b2f0688e31a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/div[2]/section/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e69687c6-f765-4f13-b28b-caa8524150f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-0</value>
+      <webElementGuid>e1255e54-da74-4760-aa94-6a405a373ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ISMAIL OLANREWAJU KANNIKE</value>
+      <webElementGuid>82c63e2f-b90a-45f8-86be-cf07a2827013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;verification-layout&quot;]/div[@class=&quot;verification-main&quot;]/div[@class=&quot;mb-5&quot;]/div[1]/div[@class=&quot;info__section&quot;]/section[@class=&quot;justify-content-between border-bottom mb-4&quot;]/p[@class=&quot;mb-0&quot;]</value>
+      <webElementGuid>8039d1e4-88bd-42f8-ad46-f164aa7f77b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/div[2]/section/p[2]</value>
+      <webElementGuid>f6d54a35-8271-4b0e-851f-b99d23b0d231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::p[2]</value>
+      <webElementGuid>38980341-1037-4647-bfbb-0e4460f58599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National ID'])[1]/following::p[4]</value>
+      <webElementGuid>fd770d3e-8ef2-44e7-ba9c-d6b6a0b8d15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Endpoint'])[1]/preceding::p[31]</value>
+      <webElementGuid>f362ec4d-a676-40fc-85ba-a10735d5c947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'POST : https://staging-api.blusalt.net/v2/IdentityVerification/PVC', '&quot;', '')])[1]/preceding::p[31]</value>
+      <webElementGuid>e4284d11-a42a-4c84-ac4d-f9ffda67a73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ISMAIL OLANREWAJU KANNIKE']/parent::*</value>
+      <webElementGuid>6d5a8f98-ed01-4c53-98d1-a48387e4e548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/p[2]</value>
+      <webElementGuid>f3e0bc73-259f-4621-8241-db42b5ed8a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'ISMAIL OLANREWAJU KANNIKE' or . = 'ISMAIL OLANREWAJU KANNIKE')]</value>
+      <webElementGuid>6b0c91e9-552b-47f6-8d30-8bef20bf0749</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

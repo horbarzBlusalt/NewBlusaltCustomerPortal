@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See All Transactions</name>
+   <tag></tag>
+   <elementGuidId>cd5b31e8-0e08-4889-96f3-16afd6ecb21e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8755bef6-f364-48c3-9d1d-0f09d089b648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/payments/transactions</value>
+      <webElementGuid>7ed3be4c-0e10-4f6a-83a1-df3a70584902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center heading-3 gap-2 primary</value>
+      <webElementGuid>74398d35-10cb-49cf-abc2-f4556684e776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> See All Transactions </value>
+      <webElementGuid>ed4b2ab7-7cda-4478-80c9-4cb155d9c4c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;dashboard-container&quot;]/main[@class=&quot;main p-4 p-md-5&quot;]/section[@class=&quot;section--container section--margin&quot;]/div[@class=&quot;row g-4&quot;]/div[@class=&quot;col-12 col-lg-6&quot;]/div[@class=&quot;d-flex flex-column stat--container border h-100&quot;]/div[@class=&quot;d-flex flex-column flex-sm-row gap-4 justify-content-between border-bottom pb-4 mb-4&quot;]/a[@class=&quot;d-flex align-items-center heading-3 gap-2 primary&quot;]</value>
+      <webElementGuid>71738add-0bed-43ac-af62-cd16e1397f7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/section/div[2]/div[2]/div/div/a</value>
+      <webElementGuid>50c876c0-f9d2-4e7b-b9d7-2bf4f3696f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'See All Transactions')]</value>
+      <webElementGuid>122c5a85-78e7-4b85-9957-3277c3dc354b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL TRANSACTIONS (Today) - 0'])[1]/following::a[1]</value>
+      <webElementGuid>23c7a945-e778-4419-9d3e-52e99abd2971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[2]/following::a[1]</value>
+      <webElementGuid>0e92c421-6494-48f6-ae3b-d332302c8a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successful Transactions'])[1]/preceding::a[1]</value>
+      <webElementGuid>48c2d61b-aea3-4d75-ba83-eeb861bda451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successful'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d6e9387-2b98-411b-a1ae-b986601b0659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='See All Transactions']/parent::*</value>
+      <webElementGuid>105752ba-1dc2-4658-ac8c-4fb492880433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/payments/transactions')])[2]</value>
+      <webElementGuid>19bc7924-7305-4273-b34a-d12685b75ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>9a039b7d-656f-469a-8ac5-5f8fa9a14a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/payments/transactions' and (text() = ' See All Transactions ' or . = ' See All Transactions ')]</value>
+      <webElementGuid>4d0f2aa8-807c-4585-b2de-0ad4083123b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

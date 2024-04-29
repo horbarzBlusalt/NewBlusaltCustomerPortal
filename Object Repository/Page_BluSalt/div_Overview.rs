@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Overview</name>
+   <tag></tag>
+   <elementGuidId>05a2bd9a-6d97-4862-9a84-d70c10ae9a08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#payments > li > a.justify-content-between > div.d-flex.align-items-center > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='payments']/li/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c7b53cd-13bd-4a1a-b9b2-889feb0a3cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview</value>
+      <webElementGuid>d514fa86-28b8-47e2-a1b8-86d5db7108f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payments&quot;)/li[1]/a[@class=&quot;justify-content-between&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[1]</value>
+      <webElementGuid>0c0066f4-2ddb-4892-b08c-c6d0707b7b7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='payments']/li/a/div/div</value>
+      <webElementGuid>a2620be2-7178-47c3-a649-3e6abdc3e736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/following::div[2]</value>
+      <webElementGuid>7f4590e8-4f03-4778-b951-4fb77dd486fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Documentation'])[1]/following::div[4]</value>
+      <webElementGuid>0763914b-55ea-4087-a842-13bdd5bc4250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/preceding::div[1]</value>
+      <webElementGuid>8be1da18-003e-44e1-9e96-c085baebf0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Collections'])[1]/preceding::div[3]</value>
+      <webElementGuid>9a82e326-5968-4a4d-822a-aaf16bb14079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Overview']/parent::*</value>
+      <webElementGuid>1e015952-539f-487d-b29b-bebee440504d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/a/div/div</value>
+      <webElementGuid>ad195795-7f9b-46fe-9c9a-de2b97e06a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Overview' or . = 'Overview')]</value>
+      <webElementGuid>091f11da-25f5-469a-89d9-5bf15ae9e926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

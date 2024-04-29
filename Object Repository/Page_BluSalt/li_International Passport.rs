@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_International Passport</name>
+   <tag></tag>
+   <elementGuidId>59ec7ecc-b653-4c63-8bf6-cdc1d23bef8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nigerian-services']/li[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>5f1bc503-80e0-4741-b59b-3fd217c62a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>International Passport</value>
+      <webElementGuid>04c7fcaf-fcc2-42eb-b553-d9546d080895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nigerian-services&quot;)/li[12]</value>
+      <webElementGuid>0d696709-0deb-4ff7-b9d8-24400db9a11e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nigerian-services']/li[12]</value>
+      <webElementGuid>ad4a90ad-abf5-425e-9460-a67d37c1e7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VNIN'])[1]/following::li[1]</value>
+      <webElementGuid>0838e0a1-50c2-4208-b1f1-91b40a548264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk PNIN Basic'])[1]/following::li[2]</value>
+      <webElementGuid>55a96761-6496-4e1d-b93b-57e3c209c902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drivers License'])[1]/preceding::li[1]</value>
+      <webElementGuid>8e2af533-fef2-4765-a488-3793a2048e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDENTITY (GHANA)'])[1]/preceding::li[2]</value>
+      <webElementGuid>f5ee6a55-a649-41eb-96f7-405afdd9c658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='International Passport']/parent::*</value>
+      <webElementGuid>8dbaaeca-a99f-4e3a-9e7e-244ba59a3ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[12]</value>
+      <webElementGuid>27f4eae4-8cfd-4ca9-b5f4-a852082354d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'International Passport' or . = 'International Passport')]</value>
+      <webElementGuid>ae3786e3-07a9-4a55-a752-0ffae272f038</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

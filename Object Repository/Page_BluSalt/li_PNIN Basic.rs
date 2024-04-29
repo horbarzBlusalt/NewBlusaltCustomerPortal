@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_PNIN Basic</name>
+   <tag></tag>
+   <elementGuidId>9e185f38-0b08-4da2-8aea-cf87b1f6962f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nigerian-services']/li[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f4dcf46f-27dc-4677-9fca-67847a7a4bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PNIN Basic</value>
+      <webElementGuid>0a222097-ffa3-4920-b8f7-1ede557d3b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nigerian-services&quot;)/li[9]</value>
+      <webElementGuid>184443df-70cc-42ba-8d6a-2460343db838</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nigerian-services']/li[9]</value>
+      <webElementGuid>64fa9891-43d2-48dc-8eaf-4a95ac15e7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PNIN'])[1]/following::li[1]</value>
+      <webElementGuid>75f9a571-4ad7-4fce-b15b-6b19d035af31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk NIN'])[1]/following::li[2]</value>
+      <webElementGuid>f6d246f7-e6ac-427a-9a97-214e779cb942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk PNIN Basic'])[1]/preceding::li[1]</value>
+      <webElementGuid>6ad2af56-534f-40b6-9f87-28b4250dcbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VNIN'])[1]/preceding::li[2]</value>
+      <webElementGuid>2ca9ca36-31a3-4aba-90df-362ba98560d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PNIN Basic']/parent::*</value>
+      <webElementGuid>ec718075-cfae-4d81-9803-d5b9d6d74dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[9]</value>
+      <webElementGuid>dd5dfecb-234a-4560-90f4-ab1f7953c031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'PNIN Basic' or . = 'PNIN Basic')]</value>
+      <webElementGuid>bb2bbbc6-f174-44be-86c7-0705921b05f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
